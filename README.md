@@ -4,6 +4,7 @@ This repository contains code for simulating an epidemic using the SEIR (Suscept
 The model is implemented in both MATLAB and Python.
 
 <h3>Contents</h3>
+
 **SEIR model.docx:** Contains detailed information about the SEIR model, including the equations used, the simulation process, and advice for flattening the curve.
 **SEIR.ipynb:** Python implementation using the odeint function.
 **diff_eq.m:** MATLAB function containing the differential equations for the SEIR model.
